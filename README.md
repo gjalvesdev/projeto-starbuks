@@ -38,7 +38,7 @@ StarbucksFlavorExplorer/
 <h2>Como executar</h2>
 <ol>
   <li>Clone o repositório:<br>
-    <code>git clone https://github.com/gamagot/StarbucksFlavorExplorer.git</code>
+    <code>git clone https://github.com/gjalvesdev/StarbucksFlavorExplorer.git</code>
   </li>
   <li>Entre na pasta:<br>
     <code>cd StarbucksFlavorExplorer</code>
